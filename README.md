@@ -3,7 +3,7 @@
 
 **Изображения**
 
-![Создание таблицы](https://github.com/Saitama22/DBMS/images/Create.png)
-![Чтение/изменение данных](https://github.com/Saitama22/DBMS/images/Read.png)
-![Добавление данных](https://github.com/Saitama22/DBMS/images/Add.png)
-![Редактирование таблицы](https://github.com/Saitama22/DBMS/images/Redact.png)
+![Создание таблицы](https://github.com/Saitama22/DBMS/blob/main/images/Create.png)
+![Чтение/изменение данных](https://github.com/Saitama22/DBMS/blob/main/images/Read.png)
+![Добавление данных](https://github.com/Saitama22/DBMS/blob/main/images/Add.png)
+![Редактирование таблицы](https://github.com/Saitama22/DBMS/blob/main/images/Redact.png)
